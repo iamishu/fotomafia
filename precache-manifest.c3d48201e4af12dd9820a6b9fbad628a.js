@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18e8c0d09043c8a6ab4222a407ada14e",
+    "revision": "0995fe81e920ae2727183f8ba5c1c416",
     "url": "/fotomafia/index.html"
   },
   {

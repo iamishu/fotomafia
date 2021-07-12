@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fotomafia/precache-manifest.d23e3023700ec3d04e108d2c04360d89.js"
+  "/fotomafia/precache-manifest.c3d48201e4af12dd9820a6b9fbad628a.js"
 );
 
 self.addEventListener('message', (event) => {
