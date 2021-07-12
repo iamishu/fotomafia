@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fotomafia/static/css/main.296d3dda.chunk.css",
+    "main.js": "/fotomafia/static/js/main.481857a1.chunk.js",
+    "main.js.map": "/fotomafia/static/js/main.481857a1.chunk.js.map",
+    "runtime-main.js": "/fotomafia/static/js/runtime-main.52b073ba.js",
+    "runtime-main.js.map": "/fotomafia/static/js/runtime-main.52b073ba.js.map",
+    "static/js/2.6b8be091.chunk.js": "/fotomafia/static/js/2.6b8be091.chunk.js",
+    "static/js/2.6b8be091.chunk.js.map": "/fotomafia/static/js/2.6b8be091.chunk.js.map",
+    "index.html": "/fotomafia/index.html",
+    "precache-manifest.d23e3023700ec3d04e108d2c04360d89.js": "/fotomafia/precache-manifest.d23e3023700ec3d04e108d2c04360d89.js",
+    "service-worker.js": "/fotomafia/service-worker.js",
+    "static/css/main.296d3dda.chunk.css.map": "/fotomafia/static/css/main.296d3dda.chunk.css.map",
+    "static/js/2.6b8be091.chunk.js.LICENSE.txt": "/fotomafia/static/js/2.6b8be091.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52b073ba.js",
+    "static/js/2.6b8be091.chunk.js",
+    "static/css/main.296d3dda.chunk.css",
+    "static/js/main.481857a1.chunk.js"
+  ]
+}
